@@ -7,7 +7,7 @@ My name is Icaro know as Pato and I am 16 old, I am a beginner fullstack web dev
 ### What am I learning today?
 
 - I'm learning how to create Rest Api's using NodeJs and Python.
-- I'm learning Python flask to create Api's and Python pandas to work with Data Science.
+- I'm learning [Python Pandas](https://pandas.pydata.org/) to work with Data Science.
 - I'm learning English every day, and maybe I create a YouTube channel to improve my English and teach programming to beginners.
 
 ### My top langueges
