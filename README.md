@@ -10,7 +10,7 @@ My name is Icaro know as Pato and I am 16 old, I am a beginner fullstack web dev
 - I'm learning English every day, and maybe I create a YouTube channel to improve my English and teach programming to beginners.
 
 ### My top languages ⚡
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patogordo&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patogordo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## My Skills 🚀
