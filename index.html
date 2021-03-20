@@ -8,22 +8,51 @@
 	<link rel="stylesheet/less" type="text/css" href="styles.less" />
 	<script src="//cdn.jsdelivr.net/npm/less@3.13" ></script>
 
+  <script type="module" src="https://unpkg.com/ionicons@5.4.0/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule="" src="https://unpkg.com/ionicons@5.4.0/dist/ionicons/ionicons.js"></script>
+
 	<script>
 		function light(){
 			document.body.className = ''
-			document.body.classList.add('light')
+			document.body.classList.add('light-theme')
 		}
 		function dark(){
 			document.body.className = ''
-			document.body.classList.add('dark')
+			document.body.classList.add('dark-theme')
 		}
 		function black(){
 			document.body.className = ''
-			document.body.classList.add('black')
+			document.body.classList.add('black-theme')
 		}
 	</script>
 </head>
-<body class="dark">
+<body class="dark-theme">
+  <h2>Forms</h2>
+  <form class="form mv-10">
+    <h2 class="form-title">Form exemple 1</h2>
+    <label class="input-box">
+      <ion-icon class="input-icon white" name="person-outline"></ion-icon>
+      <input class="input bg-light-grey" type="text" placeholder="Your name">
+    </label>
+    <label class="input-box bg-blue">
+      <ion-icon class="input-icon white" name="mail-outline"></ion-icon>
+      <input class="input bg-light-grey" type="email" placeholder="Your email">
+    </label>
+    <label class="input-box bg-orange">
+      <ion-icon class="input-icon white" name="lock-closed-outline"></ion-icon>
+      <input class="input bg-light-grey" type="password" placeholder="Your password">
+    </label>
+    <button class="submit bg-deep-purple white" type="submit">Submit</button>
+  </form>
+
+  <form class="form mv-10">
+    <h2 class="form-title">Form exemple 2</h2>
+    <input class="input bg-light-grey" type="text" placeholder="Your name">
+    <input class="input bg-light-grey" type="email" placeholder="Your email">
+    <input class="input bg-light-grey" type="password" placeholder="Your password">    
+    <button class="submit bg-blue white" type="submit">Submit</button>
+  </form>
+
 	<h2>Themes</h2>
 	<button onclick="light()">Light theme</button>
 	<button onclick="dark()">Dark theme</button>
