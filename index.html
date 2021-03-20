@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+
+	<link rel="stylesheet/less" type="text/css" href="styles.less" />
+	<script src="//cdn.jsdelivr.net/npm/less@3.13" ></script>
+
+	<script>
+		function light(){
+			document.body.className = ''
+			document.body.classList.add('light')
+		}
+		function dark(){
+			document.body.className = ''
+			document.body.classList.add('dark')
+		}
+		function black(){
+			document.body.className = ''
+			document.body.classList.add('black')
+		}
+	</script>
+</head>
+<body class="dark">
+	<h2>Themes</h2>
+	<button onclick="light()">Light theme</button>
+	<button onclick="dark()">Dark theme</button>
+	<button onclick="black()">black theme</button>
+
+	<h2>Colors</h2>
+	<p class="white">white</p>
+	<p class="black">black</p>
+	<p class="red">red</p>
+	<p class="pink">pink</p>
+	<p class="purple">purple</p>
+	<p class="deep-purple">deep-purple</p>
+	<p class="indigo">indigo</p>
+	<p class="blue">blue</p>
+	<p class="light-blue">light-blue</p>
+	<p class="cyan">cyan</p>
+	<p class="aqua">aqua</p>
+	<p class="teal">teal</p>
+	<p class="green">green</p>
+	<p class="light-green">light-green</p>
+	<p class="lime">lime</p>
+	<p class="sand">sand</p>
+	<p class="khaki">khaki</p>
+	<p class="yellow">yellow</p>
+	<p class="orange">orange</p>
+	<p class="deep-orange">deep-orange</p>
+	<p class="brown">brown</p>
+	<p class="blue-grey">blue-grey</p>
+	<p class="light-grey">light-grey</p>
+	<p class="dark-grey">dark-grey</p>
+	<p class="grey">grey</p>
+	<p class="pale-red">pale-red</p>
+	<p class="pale-yellow">pale-yellow</p>
+	<p class="pale-green">pale-green</p>
+	<p class="pale-blue">pale-blue</p>
+
+	<h2>Backgrbg-ound Colors</h2>
+	<p class="bg-white">bg-white</p>
+	<p class="bg-black">bg-black</p>
+	<p class="bg-red">bg-red</p>
+	<p class="bg-pink">bg-pink</p>
+	<p class="bg-purple">bg-purple</p>
+	<p class="bg-deep-purple">bg-deep-purple</p>
+	<p class="bg-indigo">bg-indigo</p>
+	<p class="bg-blue">bg-blue</p>
+	<p class="bg-light-blue">bg-light-blue</p>
+	<p class="bg-cyan">bg-cyan</p>
+	<p class="bg-aqua">bg-aqua</p>
+	<p class="bg-teal">bg-teal</p>
+	<p class="bg-green">bg-green</p>
+	<p class="bg-light-green">bg-light-green</p>
+	<p class="bg-lime">bg-lime</p>
+	<p class="bg-sand">bg-sand</p>
+	<p class="bg-khaki">bg-khaki</p>
+	<p class="bg-yellow">bg-yellow</p>
+	<p class="bg-orange">bg-orange</p>
+	<p class="bg-deep-orange">bg-deep-orange</p>
+	<p class="bg-brown">bg-brown</p>
+	<p class="bg-blue-grey">bg-blue-grey</p>
+	<p class="bg-light-grey">bg-light-grey</p>
+	<p class="bg-dark-grey">bg-dark-grey</p>
+	<p class="bg-grey">bg-grey</p>
+	<p class="bg-pale-red">bg-pale-red</p>
+	<p class="bg-pale-yellow">bg-pale-yellow</p>
+	<p class="bg-pale-green">bg-pale-green</p>
+	<p class="bg-pale-blue">bg-pale-blue</p>
+
+	<a id="a">Click to download the css version</a>
+	<p>
+		// use it on less project <br>
+		@import url('https://patogordo.patogordo.repl.co/Styles/duck.less');
+	</p>
+	<script>
+		function getCss(){
+			var a = document.getElementById("a");
+			var file = new Blob([localStorage.getItem('https://patogordo.patogordo.repl.co/styles.less')], {type: 'text/css'});
+			a.href = URL.createObjectURL(file);
+			a.download = 'duck.css';
+		}
+		getCss()
+	</script>
+</body>
+</html>
