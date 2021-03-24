@@ -19,6 +19,7 @@ My name is Icaro know as Pato and I am 16 old, I am a beginner fullstack web dev
 [![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
 [![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
 [![LessCss](https://img.shields.io/badge/Less-1d365d?style=for-the-badge&logo=less&logoColor=white)](http://lesscss.org/)
+[![LessCss](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)](https://tailwindcss.com/)
 [![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08d)](https://vuejs.org)
 
