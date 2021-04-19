@@ -41,11 +41,11 @@
   </a>
   
   <h3>Frameworks 📓</h3>
-  <a href="https://reactjs.org/">
-    <img alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>
   <a href="https://vuejs.org">
     <img alt="VueJS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08d" />
+  </a>
+  <a href="https://reactjs.org/">
+    <img alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>
   <a href="https://expressjs.com/">
     <img alt="ExpressJS" src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" />
