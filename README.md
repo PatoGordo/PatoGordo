@@ -17,7 +17,7 @@
 <div>
   <h2>My top languages ⚡</h2>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patogordo&layout=compact&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patogordo&layout=compact&theme=tokyonight&hide=html,css" />
   </a>
 </div>
 
