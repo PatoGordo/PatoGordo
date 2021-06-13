@@ -27,31 +27,40 @@
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img alt="Javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   </a>
-  <a href="http://lesscss.org/">
-    <img alt="Lesscss" src="https://img.shields.io/badge/Less-1d365d?style=for-the-badge&logo=less&logoColor=white" />
+  <a href="https://typescriptlang.org/">
+    <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   </a>
   <a href="https://www.python.org/">
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   </a>
   <a href="https://nodejs.org">
-    <img alt="Node js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img alt="Node js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=Node.js&logoColor=white" />
   </a>
   <a href="https://firebase.google.com/">
     <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" />
   </a>
+  <a href="https://mongodb.com">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  </a>
   
-  <h3>Frameworks 📓</h3>
+  <h3>Frameworks and Preprocessors 📓</h3>
   <a href="https://vuejs.org">
-    <img alt="VueJS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08d" />
+    <img alt="VueJS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=Vue.js&logoColor=4FC08d" />
   </a>
   <a href="https://reactjs.org/">
-    <img alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img alt="ReactJS" src="https://img.shields.io/badge/React.Js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>
   <a href="https://expressjs.com/">
     <img alt="ExpressJS" src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" />
   </a>
   <a href="https://palletsprojects.com/p/flask/">
     <img alt="Python Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  </a>
+  <a href="https://sass-lang.com/">
+    <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  </a>
+  <a href="http://lesscss.org/">
+    <img alt="Lesscss" src="https://img.shields.io/badge/Less-1d365d?style=for-the-badge&logo=less&logoColor=white" />
   </a>
 </div>
 </div>
