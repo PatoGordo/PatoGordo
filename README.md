@@ -46,9 +46,6 @@
   <a href="https://figma.com/">
     <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   </a>
-  <a href="https://www.adobe.com/products/photoshop.html">
-    <img align="center" alt="Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
-  </a>
   
   <h3>Frameworks and Preprocessors 📓</h3>
   <a href="https://vuejs.org">
@@ -68,9 +65,6 @@
   </a>
   <a href="https://sass-lang.com/">
     <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  </a>
-  <a href="http://lesscss.org/">
-    <img align="center" alt="LessCss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg">
   </a>
   <a href="https://tailwindcss.com/">
     <img align="center" alt="LessCss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
