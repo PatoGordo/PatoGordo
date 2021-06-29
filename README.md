@@ -1,4 +1,4 @@
-## Hi there I'm PatoGordo 👋
+## Hi there, I'm PatoGordo 👋
 
 ### About me 😁
   My name is Icaro know as Pato and I am 16 old, I am a beginner fullstack web developer, I live in Brazil and I learn new technologies every day.
