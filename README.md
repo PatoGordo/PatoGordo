@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm PatoGordo 👋</h1>
+<h1 align="center">Hello, I'm PatoGordo 👋</h1>
 
 ### About me 😁
 - My name is Icaro know as Pato and I am 16 years old
