@@ -1,7 +1,11 @@
-## Hi there, I'm PatoGordo 👋
+<h1 align="center">Hi there, I'm PatoGordo 👋</h1>
 
 ### About me 😁
-  My name is Icaro know as Pato and I am 16 old, I am a beginner fullstack web developer, I live in Brazil and I learn new technologies every day.
+- My name is Icaro know as Pato and I am 16 years old
+- I live in Minas Gerais, Brazil
+- I am a Fullstack Web Developer and a beginner mobile developer
+- I love to learn new technologies every day
+- Current working on > [No Horny](https://nohorny.ga)
   
 ### Contacts
 <div>
