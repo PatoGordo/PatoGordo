@@ -27,8 +27,6 @@
 
 <div>
   <h2>Skills 🚀</h2>
-  
-  <h3>Languages, Databases and tools 🖥️</h3>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
@@ -47,11 +45,9 @@
   <a href="https://mongodb.com">
     <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
   </a>
-  <a href="https://figma.com/">
-    <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <a href="https://flutter.dev/">
+    <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   </a>
-  
-  <h3>Frameworks and Preprocessors 📓</h3>
   <a href="https://vuejs.org">
     <img align="center" alt="VueJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   </a>
