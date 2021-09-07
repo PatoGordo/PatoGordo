@@ -5,7 +5,7 @@
 - I live in Minas Gerais, Brazil
 - I am a Fullstack Web Developer and a beginner mobile developer
 - I love to learn new technologies every day
-- Current project on > [No Horny](https://github.com/no-horny)
+- Current project > [No Horny](https://github.com/no-horny)
   
 ### Contacts
 <div>
