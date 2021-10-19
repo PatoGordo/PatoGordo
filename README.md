@@ -4,8 +4,7 @@
 - My name is Icaro know as Pato and I am 16 years old
 - I live in Minas Gerais, Brazil
 - I am a Fullstack Web Developer and a beginner mobile developer
-- I love to learn new technologies every day
-- Current project > [No Horny](https://github.com/no-horny)
+- I love to learn new technologies, techniques and tools every day
   
 ### Contacts
 <div>
