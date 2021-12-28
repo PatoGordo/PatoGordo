@@ -5,6 +5,7 @@
 - I live in Minas Gerais, Brazil
 - I am a Fullstack Web Developer and a beginner mobile developer
 - I love to learn new technologies, techniques and tools every day
+- Current Stack: Vue 3, Postgres, ExpressJS & NodeJS
   
 ### Contacts
 <div>
