@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm PatoGordo 👋</h1>
 
 ### About me 😁
-- My name is Icaro know as Pato and I am 16 years old
+- My name is Icaro know as Pato and I am 17 years old
 - I live in Minas Gerais, Brazil
 - I am a Fullstack Web Developer and a beginner mobile developer
 - I love to learn new technologies, techniques and tools every day
