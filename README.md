@@ -45,11 +45,11 @@
   
   <h3>Front/Back-end frameworks</h3>
   <div>
-    <a href="https://flutter.dev/">
-      <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-    </a>
     <a href="https://vuejs.org">
       <img align="center" alt="VueJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+    </a>
+    <a href="https://nuxtjs.org">
+      <img align="center" alt="Nuxt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
     </a>
     <a href="https://reactjs.org/">
       <img align="center" alt="ReactJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
