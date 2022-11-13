@@ -1,11 +1,11 @@
-<h1 align="center">Hello, I'm PatoGordo 👋</h1>
+<h1 align="center">Hello, I'm Icaro Miguel a.k.a PatoGordo 👋</h1>
 
 ### About me 😁
 - My name is Icaro know as Pato and I am 17 years old
 - I live in Minas Gerais, Brazil
 - I am a Fullstack Web Developer and a beginner mobile developer
-- I love to learn new technologies, techniques and tools every day
-- Current Stack: TypeScript, Vue 3, Postgres, ExpressJS & NodeJS
+- I love to learn new technologies and tools every day
+- Current Stack: TypeScript, Vue 3, Nuxt 3, Postgres & NodeJS
   
 ### Contacts
 <div>
