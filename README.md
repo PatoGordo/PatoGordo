@@ -22,12 +22,6 @@
 </div>
 
 <div>
-<div>
-  <h2>My top languages ⚡</h2>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patogordo&layout=compact&theme=react&hide=html,css&langs_count=6" />
-  </a>
-</div>
 
 <h2>Skills 🚀</h2>
 
@@ -61,4 +55,13 @@
 
 ### Miscellaneous
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F48120?style=for-the-badge&logo=cloudflare&logoColor=white)](https://cloudflare.com/)
+[![Arduino](https://img.shields.io/badge/Arduino-028184?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
+  
+<div>
+  <h2>My top languages ⚡</h2>
+   
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patogordo&layout=compact&theme=react&hide=html,css&langs_count=6" />
+  </a>
+</div>
