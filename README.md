@@ -1,19 +1,23 @@
 <h1 align="center">Hello, I'm Icaro Miguel a.k.a PatoGordo 👋</h1>
 
 ### About me 😁
-- My name is Icaro know as Pato and I am 17 years old
-- I live in Minas Gerais, Brazil
-- I am a Fullstack Web Developer and a beginner mobile developer
-- I love to learn new technologies and tools every day
-- Current Stack: TypeScript, Vue 3, Nuxt 3, Postgres & NodeJS
+- My name is Icaro know as Pato and I am 17 old;
+- I live in Montes Claros, Minas Gerais, Brazil;
+- I am a Fullstack Web Developer and Mobile developer;
+- I love to learn new things, and solve problems every day;
+- I currently wokring in the beta version of my project called [GBreath](https://beta-gbreath.patogordo.dev);
+- My current Stack: TypeScript, Vue 3, Nuxt 3, Postgres, Prisma & NodeJS.
   
-### Contacts
+### Contacts 📱
 <div>
   <a href="mailto:conversecomicaro@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/icaro-miguel-0879521bb/">
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://patogordo.dev/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-6B62FF.svg?&style=for-the-badge&" />
   </a>
 </div>
 
@@ -24,67 +28,37 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patogordo&layout=compact&theme=react&hide=html,css&langs_count=6" />
   </a>
 </div>
-<div align="start">
-  <h2>Skills 🚀</h2>
-  
-  <h3>Programming languages</h3>
-  <div>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-      <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    </a>
-    <a href="https://typescriptlang.org/">
-      <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    </a>
-    <a href="https://www.python.org/">
-      <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    </a>
-    <a href="https://www.dart.dev/">
-      <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-    </a>
-  </div>
-  
-  <h3>Front/Back-end frameworks</h3>
-  <div>
-    <a href="https://vuejs.org">
-      <img align="center" alt="VueJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-    </a>
-    <a href="https://nuxtjs.org">
-      <img align="center" alt="Nuxt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
-    </a>
-    <a href="https://reactjs.org/">
-      <img align="center" alt="ReactJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    </a>
-    <a href="https://nextjs.org/">
-      <img align="center" alt="NextJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
-    </a>
-    <a href="https://expressjs.com/">
-      <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-    </a>
-    <a href="https://palletsprojects.com/p/flask/">
-      <img align="center" alt="Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-    </a>
-  </div>
-  
-  <h3>Miscellaneous Technologies</h3>
-  <div>
-    <a href="https://sass-lang.com/">
-      <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-    </a>
-    <a href="http://lesscss.org/">
-      <img align="center" alt="LessCss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg">
-    </a>
-    <a href="https://tailwindcss.com/">
-      <img align="center" alt="Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-    </a>
-    <a href="https://firebase.google.com/">
-      <img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-    </a>
-    <a href="https://mongodb.com">
-      <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
-    </a>
-    <a href="https://nodejs.org">
-      <img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    </a>
-  </div>
-</div>
-</div>
+
+<h2>Skills 🚀</h2>
+
+### Programming languages
+[![Javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript)](https://typescriptlang.org)
+[![TypeScript](https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![C++](https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=cplusplus&logoColor=5E97D0)](https://devdocs.io/cpp)
+
+### Front-end / Mobile
+[![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
+[![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
+[![Vue JS](https://img.shields.io/badge/Vue_js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![Nuxt JS](https://img.shields.io/badge/Nuxt_js-3b8070?style=for-the-badge&logo=nuxt.js&logoColor=white)](https://nuxt.com/)
+[![TailwindCss](https://img.shields.io/badge/Tailwind_Css-37BCF8?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://www.tailwindcss.com/)
+
+[![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/Progressive_web_apps)
+[![React JS](https://img.shields.io/badge/React_js-323330?style=for-the-badge&logo=react&logoColor=61DBFB)](https://reactjs.org/)
+[![React Native](https://img.shields.io/badge/React_native-323330?style=for-the-badge&logo=react&logoColor=61DBFB)](https://reactnative.dev/)
+
+### Back-end
+[![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Express JS](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Nest.js](https://img.shields.io/badge/Nest_js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![Socket.io](https://img.shields.io/badge/Socket_IO-323330?style=for-the-badge&logo=socket.io)](https://socket.io/)
+
+### Database
+[![PostgreSQL](https://img.shields.io/badge/Postgres-0064a5?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Mongodb](https://img.shields.io/badge/Mongo_DB-3FA037?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
+[![Firebase](https://img.shields.io/badge/Firebase-323330?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
+
+### Miscellaneous
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F48120?style=for-the-badge&logo=cloudflare&logoColor=white)](https://cloudflare.com/)
+[![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
