@@ -13,7 +13,7 @@
   <a href="mailto:conversecomicaro@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/icaro-miguel-0879521bb/">
+  <a href="https://www.linkedin.com/in/icaromiguel/">
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://patogordo.dev/">
@@ -28,6 +28,7 @@
 ### Programming languages
 [![Javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript)](https://typescriptlang.org)
 [![TypeScript](https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![Kotlin](https://img.shields.io/badge/Kotlin-323330?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/)
 [![C++](https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=cplusplus&logoColor=5E97D0)](https://devdocs.io/cpp)
 
 ### Front-end / Mobile
@@ -36,10 +37,10 @@
 [![Vue JS](https://img.shields.io/badge/Vue_js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![Nuxt JS](https://img.shields.io/badge/Nuxt_js-3b8070?style=for-the-badge&logo=nuxt.js&logoColor=white)](https://nuxt.com/)
 [![TailwindCss](https://img.shields.io/badge/Tailwind_Css-37BCF8?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://www.tailwindcss.com/)
-
 [![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/Progressive_web_apps)
 [![React JS](https://img.shields.io/badge/React_js-323330?style=for-the-badge&logo=react&logoColor=61DBFB)](https://reactjs.org/)
 [![React Native](https://img.shields.io/badge/React_native-323330?style=for-the-badge&logo=react&logoColor=61DBFB)](https://reactnative.dev/)
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack_compose-323330?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4)](https://developer.android.com/jetpack/compose)
 
 ### Back-end
 [![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
