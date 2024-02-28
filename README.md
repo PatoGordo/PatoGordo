@@ -32,12 +32,13 @@
 [![C++](https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=cplusplus&logoColor=5E97D0)](https://devdocs.io/cpp)
 
 ### Front-end / Mobile
-[![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
-[![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
+<!--- [![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html) --->
+<!--- [![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html) --->
 [![Vue JS](https://img.shields.io/badge/Vue_js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![Nuxt JS](https://img.shields.io/badge/Nuxt_js-3b8070?style=for-the-badge&logo=nuxt.js&logoColor=white)](https://nuxt.com/)
 [![TailwindCss](https://img.shields.io/badge/Tailwind_Css-37BCF8?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://www.tailwindcss.com/)
 [![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/Progressive_web_apps)
+<br/>
 [![React JS](https://img.shields.io/badge/React_js-323330?style=for-the-badge&logo=react&logoColor=61DBFB)](https://reactjs.org/)
 [![React Native](https://img.shields.io/badge/React_native-323330?style=for-the-badge&logo=react&logoColor=61DBFB)](https://reactnative.dev/)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack_compose-323330?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4)](https://developer.android.com/jetpack/compose)
