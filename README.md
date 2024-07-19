@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Icaro Miguel a.k.a PatoGordo 👋</h1>
+<h1 align="center">Hello, I'm Pato 👋</h1>
 
 ### About me 😁
 - My name is Icaro know as Pato;
